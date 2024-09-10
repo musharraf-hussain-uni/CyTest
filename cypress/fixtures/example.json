@@ -1,0 +1,7 @@
+{
+  "username_loc": "form input[name='username']",
+  "pass_loc": "form input[name='password']",
+  "submit_loc": "form input[type='submit']",
+  "user_data": "mh+11 ",
+  "pass_data": "0123" 
+}
